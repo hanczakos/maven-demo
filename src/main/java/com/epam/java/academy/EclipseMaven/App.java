@@ -1,7 +1,7 @@
 package com.epam.java.academy.EclipseMaven;
 
 /**
- * Hello world!
+ * Hello world! - yeah
  *
  */
 public class App 
